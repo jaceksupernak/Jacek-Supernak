@@ -1,3 +1,9 @@
 theme: jekyll-theme-cayman
 title: Jacek Supernak
 description: test
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - First Resource: "https://test.com"
+    - Second Resource: "https://www.test.com/"
+  Author's home: "https://test.com"
